@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/eth_logo.png" alt="ETH Zürich" width="600">
+  <img src="assets/eth_logo.png" alt="ETH Zürich" width="1000">
 </p>
 
 <h1 align="center">Layer-Wise Acceleration of Clifford Neural Networks</h1>
